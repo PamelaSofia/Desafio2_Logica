@@ -4,7 +4,7 @@ CALCULADORA DE PARTIDAS RANKEADAS
 - variáveis
 - operadores
 - laços de repetição
-- estruturas de decissões
+- estruturas de decisões
 - funções
 
 *objetivo:
